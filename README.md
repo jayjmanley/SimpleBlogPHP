@@ -1,6 +1,6 @@
 # Simple Blog
 
-A lightweight, minimalist blogging platform built in PHP and MySQL.
+A lightweight, minimalist blogging platform built in PHP and MySQL. Uses Docker for local development.
 
 ## Description
 

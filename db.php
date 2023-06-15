@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "username";
-$password = "password";
+$servername = "db";
+$username = getenv('MYSQL_USERNAME');
+$password = getenv('MYSQL_PASSWORD');
 $dbname = "blog_db";
 
 // Create connection

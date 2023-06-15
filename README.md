@@ -19,7 +19,7 @@ To run this project locally with Docker:
 
 ```bash
 $ cd ../project_directory
-$ docker-compose up -d
+$ docker compose up -d
 ```
 
 Then access the application at `http://localhost:8080` and PHPMyAdmin at `http://localhost:8081`.
